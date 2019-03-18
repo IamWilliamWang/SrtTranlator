@@ -1,0 +1,9 @@
+F:\Visual Studio 2015\SrtTranlatorGUI\bin\Debug\SrtTranlatorGUI.exe.config
+F:\Visual Studio 2015\SrtTranlatorGUI\bin\Debug\SrtTranlatorGUI.exe
+F:\Visual Studio 2015\SrtTranlatorGUI\bin\Debug\SrtTranlatorGUI.pdb
+F:\Visual Studio 2015\SrtTranlatorGUI\obj\Debug\SrtTranlatorGUI.Form1.resources
+F:\Visual Studio 2015\SrtTranlatorGUI\obj\Debug\SrtTranlatorGUI.Properties.Resources.resources
+F:\Visual Studio 2015\SrtTranlatorGUI\obj\Debug\SrtTranlatorGUI.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\SrtTranlatorGUI\obj\Debug\SrtTranlatorGUI.exe
+F:\Visual Studio 2015\SrtTranlatorGUI\obj\Debug\SrtTranlatorGUI.pdb
+F:\Visual Studio 2015\SrtTranlatorGUI\obj\Debug\SrtTranlatorGUI.csproj.CoreCompileInputs.cache
